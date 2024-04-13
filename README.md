@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
- Olá, meu nome é Welder Siqueira e sou estudante de Graduação no Curso de E ngenharia de Computação na Universidade Federal de Pelotas. No âmbito acadêmico, tive a oportunidade de desenvolver habilidades de comunicação e refinamento de conhecimento através do Programa de Monitoria, especialmente na disciplina de cálculo numérico. Meu interesse em desenvolver habilidades full-stack vem da minha busca por ampliar minha gama de habilidades adquiridas na Graduação. Além disso, tenho buscado cursos online (Udemy, DIO, Coursera) sobre tecnologias como Java, Rust, C, Python, JavaScript, e HTML/CSS. Além da programação, tenho um interesse imenso em música e esportes, como futebol e musculação.
+ Olá, meu nome é Welder Siqueira e sou estudante de Graduação no Curso de Engenharia de Computação na Universidade Federal de Pelotas. No âmbito acadêmico, tive a oportunidade de desenvolver habilidades de comunicação e refinamento de conhecimento através do Programa de Monitoria, especialmente na disciplina de cálculo numérico. Meu interesse em desenvolver habilidades full-stack vem da minha busca por ampliar minha gama de habilidades adquiridas na Graduação. Além disso, tenho buscado cursos online (Udemy, DIO, Coursera) sobre tecnologias como Java, Rust, C, Python, JavaScript, e HTML/CSS. Além da programação, tenho um interesse imenso em música e esportes, como futebol e musculação.
 
 
 <div>
