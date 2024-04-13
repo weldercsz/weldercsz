@@ -1,7 +1,8 @@
-## Saudações 👋, Eu sou o  [Welder](https://rusty-sj.github.io/)! 😁
+## Olá 👋, Aqui é  o  [Welder](https://rusty-sj.github.io/)! 😁
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
+ Olá, meu nome é Welder Siqueira e sou estudante de Graduação na Universidade Federal de Pelotas. No âmbito acadêmico, tive a oportunidade de desenvolver habilidades de comunicação e refinamento de conhecimento através do Programa de Monitoria, especialmente na disciplina de cálculo numérico. Meu interesse em desenvolver habilidades full-stack vem da minha busca por ampliar minha gama de habilidades adquiridas na Graduação. Além disso, tenho buscado cursos online (Udemy, DIO, Coursera) sobre tecnologias como Java, Rust, C, Python, JavaScript, e HTML/CSS. Além da programação, tenho um interesse imenso em música e esportes, como futebol e musculação.
 
 
 <div>
@@ -10,7 +11,7 @@
 </div>
 <br>
 <br>
-Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State University](https://eecs.oregonstate.edu/) majoring in Computer Science. I am a full-stack software developer with three years of experience working as a Software Engineer at [eQ Technologic India Pvt. Ltd.](https://www.1eq.com/) My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in music.
+
 
   <br/>
 
@@ -25,7 +26,7 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 
 
 
-### 🔨 Languages and Tools:
+### 🔨Linguagens e ferramentas :
 
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -35,10 +36,15 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
   <a href="https://www.rust-lang.org" target="_blank" style="display: inline-block;">
     <img align="left" alt="Rust" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/rust/rust.svg">
   </a>
-
-
-
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+  </a>
+  <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" style="display: inline-block; margin-right: 20px;">
+  <img align="left" alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" style="display: inline-block; margin-right: 20px;">
+  <img align="left" alt="Angular" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg" style="display: inline-block; margin-right: 20px;">
+</div>
+</a>
+  <a href="https://www.learn-c.org/" target="_blank" style="display: inline-block; margin-right: 20px;">
+    <img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg">
+  </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
@@ -54,7 +60,7 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
   <img width="30" src="gmail.svg">
 </a>
 
-  <a href="https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+  <a href="https://www.linkedin.com/in/welder-siqueira-53760bb1/">
     <img width="25" src="linkedin.svg">
   </a>
   <!-- Adicione sua próxima imagem e link aqui -->
