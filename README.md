@@ -40,7 +40,9 @@ Hello, my name is Rashmi Jadhav and I am a master's student at [Oregon State Uni
 <br>
 
 
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<br/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 <h1 align="center">Redes Sociais</h1>
 <div style="text-align: center;">
